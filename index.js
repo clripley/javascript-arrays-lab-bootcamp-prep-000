@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var kittens = [
   "Milo",
   "Otis",
@@ -39,4 +40,10 @@ function removeLastKitten(){
 }
 function removeFirstKitten(){
   return kittens.slice(1)
+=======
+var kittens = ["Milo", "Otis", "Garfield"] //define your array here
+
+// Add your functions and code here
+function AppendKitten(ralph){
+>>>>>>> 1148c53f63ee288d973cd0805fe86808a17dc3fb
 }
